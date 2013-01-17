@@ -1,0 +1,167 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"U",
+				"UTF-8"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 287.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: Anonymous Function"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ecolix/dev/projects_js/sitg_catalog_browser/skos/SITG_SKOS_BN_UTF8.ttl",
+		"/Users/ecolix/dev/projects_js/sitg_catalog_browser/lib/viskosity/scripts/main.js",
+		"/Users/ecolix/dev/projects_js/d3tutorial/d3/src/layout/layout.js",
+		"/Users/ecolix/dev/projects_js/sitg_catalog_browser/lib/viskosity/scripts/graph.js",
+		"/Users/ecolix/dev/projects_js/sitg_catalog_browser/sandbox_1.html",
+		"/Users/ecolix/dev/projects_js/sitg_catalog_browser/mail-opendata-hackday-mars-2013.txt",
+		"/Users/ecolix/dev/projects_js/sitg_catalog_browser/sandbox_3.html",
+		"/Users/ecolix/dev/projects_js/sitg_catalog_browser/force-collapsible.html",
+		"/Users/ecolix/dev/projects_js/sitg_catalog_browser/flare.json",
+		"/Users/ecolix/dev/projects_js/sitg_catalog_browser/skos/xml2rdf.rb",
+		"/Users/ecolix/dev/projects_js/sitg_catalog_browser/skos/sitg_skos_model_2.rdf",
+		"/Users/ecolix/dev/projects_js/sitg_catalog_browser/skos/skos_test.ttl",
+		"/Users/ecolix/dev/projects_js/sitg_catalog_browser/lib/viskosity/scripts/sandbox.js",
+		"/Users/ecolix/dev/projects_js/sitg_catalog_browser/sandbox.html",
+		"/Users/ecolix/dev/projects_html5/boilerplate/index.html",
+		"/Users/ecolix/dev/projects_js/sitg_catalog_browser/skos/SITG_SKOS_BN.ttl",
+		"/Users/ecolix/dev/projects_html5/boilerplate/js/vendor/jquery-1.8.2.min.js",
+		"/Users/ecolix/dev/projects_html5/boilerplate/js/main.js",
+		"/Users/ecolix/dev/projects_js/sitg_catalog_browser/skos/sitg_skos_model.nt",
+		"/Users/ecolix/dev/projects_js/sitg_catalog_browser/skos/sitg_skos_model_2.ttl",
+		"/Users/ecolix/dev/bootstrap/js/bootstrap-tooltip.js",
+		"/Users/ecolix/dev/bootstrap/docs/index.html",
+		"/Users/ecolix/dev/bootstrap.sublime-project"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
