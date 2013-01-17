@@ -151,7 +151,24 @@
 	    //    mytree
 	    //});
 
+        d3.csv("skos/hierachy.csv", function(links) {
+		  var nodesByName = {};
 
+		  // Create nodes for each unique source and target.
+		  links.forEach(function(link) {
+		    var parent = link.source = nodeByName(link.source),
+		        child = link.target = nodeByName(link.target);
+		    if (parent.children) parent.children.push(child);
+		    else parent.children = [child];
+		  });
+
+		  // Extract the root node.
+		  var root = links[0].source;
+
+		  function nodeByName(name) {
+		    return nodesByName[name] || (nodesByName[name] = {name: name});
+		  }
+		});
 
 
 	    function addChildren(object, name, listChildren) {
