@@ -3,18 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>../sitg_catalog_browser/index.html</string>
+	<string>skos/xml2rdf.rb</string>
 	<key>documents</key>
 	<array>
 		<dict>
-			<key>expanded</key>
-			<true/>
 			<key>name</key>
 			<string>sitg_catalog_browser</string>
 			<key>regexFolderFilter</key>
 			<string>!.*/(\.[^/]*|CVS|_darcs|_MTN|\{arch\}|blib|.*~\.nib|.*\.(framework|app|pbproj|pbxproj|xcode(proj)?|bundle))$</string>
-			<key>selected</key>
-			<true/>
 			<key>sourceDirectory</key>
 			<string></string>
 		</dict>
@@ -39,21 +35,21 @@
 	<integer>279</integer>
 	<key>metaData</key>
 	<dict>
-		<key>../sitg_catalog_browser/index.html</key>
+		<key>index.html</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>54</integer>
+				<integer>51</integer>
 				<key>line</key>
-				<integer>156</integer>
+				<integer>158</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>145</integer>
 		</dict>
-		<key>../sitg_catalog_browser/layout_tree_1.html</key>
+		<key>layout_tree_1.html</key>
 		<dict>
 			<key>caret</key>
 			<dict>
@@ -67,7 +63,7 @@
 			<key>firstVisibleLine</key>
 			<integer>35</integer>
 		</dict>
-		<key>../sitg_catalog_browser/lib/d3/lib/jquery/jquery.js</key>
+		<key>lib/d3/lib/jquery/jquery.js</key>
 		<dict>
 			<key>caret</key>
 			<dict>
@@ -81,7 +77,7 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>../sitg_catalog_browser/lib/jquery-1.8.3.js</key>
+		<key>lib/jquery-1.8.3.js</key>
 		<dict>
 			<key>caret</key>
 			<dict>
@@ -95,7 +91,7 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>../sitg_catalog_browser/lib/jquery.rdfquery.core-1.0.js</key>
+		<key>lib/jquery.rdfquery.core-1.0.js</key>
 		<dict>
 			<key>caret</key>
 			<dict>
@@ -109,7 +105,7 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>../sitg_catalog_browser/lib/readXML.js</key>
+		<key>lib/readXML.js</key>
 		<dict>
 			<key>caret</key>
 			<dict>
@@ -139,7 +135,7 @@
 				<integer>3</integer>
 			</dict>
 		</dict>
-		<key>../sitg_catalog_browser/skos/SITG_SKOS_BN_UTF8.ttl</key>
+		<key>skos/SITG_SKOS_BN_UTF8.ttl</key>
 		<dict>
 			<key>caret</key>
 			<dict>
@@ -153,7 +149,7 @@
 			<key>firstVisibleLine</key>
 			<integer>1097</integer>
 		</dict>
-		<key>../sitg_catalog_browser/skos/SITG_SKOS_BN_UTF8_short.ttl</key>
+		<key>skos/SITG_SKOS_BN_UTF8_short.ttl</key>
 		<dict>
 			<key>caret</key>
 			<dict>
@@ -167,7 +163,7 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>../sitg_catalog_browser/skos/hierarchy.csv</key>
+		<key>skos/hierarchy.csv</key>
 		<dict>
 			<key>caret</key>
 			<dict>
@@ -181,7 +177,7 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>../sitg_catalog_browser/skos/sitg_skos_model.nt</key>
+		<key>skos/sitg_skos_model.nt</key>
 		<dict>
 			<key>caret</key>
 			<dict>
@@ -195,7 +191,7 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>../sitg_catalog_browser/skos/sitg_skos_model.rdf</key>
+		<key>skos/sitg_skos_model.rdf</key>
 		<dict>
 			<key>caret</key>
 			<dict>
@@ -209,7 +205,7 @@
 			<key>firstVisibleLine</key>
 			<integer>371</integer>
 		</dict>
-		<key>../sitg_catalog_browser/skos/sitg_skos_model_2.rdf</key>
+		<key>skos/sitg_skos_model_2.rdf</key>
 		<dict>
 			<key>caret</key>
 			<dict>
@@ -223,7 +219,7 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>../sitg_catalog_browser/skos/sitg_skos_model_v2_rdf.nt</key>
+		<key>skos/sitg_skos_model_v2_rdf.nt</key>
 		<dict>
 			<key>caret</key>
 			<dict>
@@ -253,7 +249,7 @@
 				<integer>2</integer>
 			</dict>
 		</dict>
-		<key>../sitg_catalog_browser/skos/sitg_skos_model_v2_rdf.xml</key>
+		<key>skos/sitg_skos_model_v2_rdf.xml</key>
 		<dict>
 			<key>caret</key>
 			<dict>
@@ -267,7 +263,7 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>../sitg_catalog_browser/skos/sitg_test.rdf</key>
+		<key>skos/sitg_test.rdf</key>
 		<dict>
 			<key>caret</key>
 			<dict>
@@ -281,7 +277,21 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>../sitg_catalog_browser/skos/skos_test.ttl</key>
+		<key>skos/skos_test.rdf</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>skos/skos_test.ttl</key>
 		<dict>
 			<key>caret</key>
 			<dict>
@@ -295,7 +305,7 @@
 			<key>firstVisibleLine</key>
 			<integer>11</integer>
 		</dict>
-		<key>../sitg_catalog_browser/skos/students.xml</key>
+		<key>skos/students.xml</key>
 		<dict>
 			<key>caret</key>
 			<dict>
@@ -309,33 +319,34 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>../sitg_catalog_browser/skos/xml2rdf.rb</key>
+		<key>skos/xml2rdf.rb</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>77</integer>
+				<integer>25</integer>
 				<key>line</key>
-				<integer>90</integer>
+				<integer>10</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>79</integer>
+			<integer>0</integer>
 		</dict>
 	</dict>
 	<key>openDocuments</key>
 	<array>
-		<string>../sitg_catalog_browser/lib/readXML.js</string>
-		<string>../sitg_catalog_browser/lib/jquery.rdfquery.core-1.0.js</string>
-		<string>../sitg_catalog_browser/lib/jquery-1.8.3.js</string>
-		<string>../sitg_catalog_browser/lib/d3/lib/jquery/jquery.js</string>
-		<string>../sitg_catalog_browser/skos/xml2rdf.rb</string>
-		<string>../sitg_catalog_browser/skos/sitg_skos_model_v2_rdf.nt</string>
-		<string>../sitg_catalog_browser/skos/sitg_skos_model_v2_rdf.xml</string>
-		<string>../sitg_catalog_browser/index.html</string>
-		<string>../sitg_catalog_browser/layout_tree_1.html</string>
-		<string>../sitg_catalog_browser/skos/hierarchy.csv</string>
+		<string>lib/readXML.js</string>
+		<string>lib/jquery.rdfquery.core-1.0.js</string>
+		<string>lib/jquery-1.8.3.js</string>
+		<string>lib/d3/lib/jquery/jquery.js</string>
+		<string>skos/xml2rdf.rb</string>
+		<string>skos/sitg_skos_model_v2_rdf.nt</string>
+		<string>skos/sitg_skos_model_v2_rdf.xml</string>
+		<string>index.html</string>
+		<string>skos/skos_test.rdf</string>
+		<string>layout_tree_1.html</string>
+		<string>skos/hierarchy.csv</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
