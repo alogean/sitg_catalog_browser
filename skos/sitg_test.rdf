@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sitg="http://www.sitg.ch/" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+  <rdf:Description rdf:about="http://www.sitg.ch/c0001">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.sitg.ch/c0001">
+    <skos:prefLabel xml:lang="fr">SITG</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.sitg.ch/c0002">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.sitg.ch/c0002">
+    <skos:prefLabel xml:lang="fr">santé</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.sitg.ch/c0002">
+    <skos:broader rdf:resource="http://www.sitg.ch/c0001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.sitg.ch/c0003">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.sitg.ch/c0003">
+    <skos:prefLabel xml:lang="fr">mobilité</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.sitg.ch/c0003">
+    <skos:broader rdf:resource="http://www.sitg.ch/c0001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.sitg.ch/c0004">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.sitg.ch/c0004">
+    <skos:prefLabel xml:lang="fr">finance</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.sitg.ch/c0004">
+    <skos:broader rdf:resource="http://www.sitg.ch/c0001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.sitg.ch/c0005">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.sitg.ch/c0005">
+    <skos:prefLabel xml:lang="fr">environement</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.sitg.ch/c0005">
+    <skos:broader rdf:resource="http://www.sitg.ch/c0001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.sitg.ch/c0006">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.sitg.ch/c0006">
+    <skos:prefLabel xml:lang="fr">éducation</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.sitg.ch/c0006">
+    <skos:broader rdf:resource="http://www.sitg.ch/c0001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.sitg.ch/c0007">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.sitg.ch/c0007">
+    <skos:prefLabel xml:lang="fr">forêts</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.sitg.ch/c0007">
+    <skos:broader rdf:resource="http://www.sitg.ch/c0005"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.sitg.ch/c0008">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.sitg.ch/c0008">
+    <skos:prefLabel xml:lang="fr">lacs et rivières</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.sitg.ch/c0008">
+    <skos:broader rdf:resource="http://www.sitg.ch/c0005"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.sitg.ch/c0009">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.sitg.ch/c0009">
+    <skos:prefLabel xml:lang="fr">polutions</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.sitg.ch/c0009">
+    <skos:broader rdf:resource="http://www.sitg.ch/c0005"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.sitg.ch/c0010">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.sitg.ch/c0010">
+    <skos:prefLabel xml:lang="fr">polution de l'air</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.sitg.ch/c0010">
+    <skos:broader rdf:resource="http://www.sitg.ch/c0009"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.sitg.ch/c0011">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.sitg.ch/c0011">
+    <skos:prefLabel xml:lang="fr">polution de l'eau</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.sitg.ch/c0011">
+    <skos:broader rdf:resource="http://www.sitg.ch/c0009"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.sitg.ch/collection">
+    <skos:prefLabel xml:lang="fr">collection 1</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.sitg.ch/collection">
+    <skos:member rdf:resource="http://www.sitg.ch/c0002"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.sitg.ch/collection">
+    <skos:member rdf:resource="http://www.sitg.ch/c0003"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -79,8 +79,35 @@ def xml_to_rdf
   end
 end
 
+def readttl
+  RDF::Reader.open("http://localhost:8888/skos/SITG_SKOS_BN_UTF8.ttl") do |reader|
+    reader.each_statement do |statement|
+      puts statement.inspect
+    end
+  end
+end
+
+def querry
+  graph = RDF::Graph.load("http://localhost:8888/skos/SITG_SKOS_BN_UTF8.ttl")
+  query = RDF::Query.new({
+    :concept => {
+      RDF.type  => RDF::SKOS.Concept,
+      RDF::SKOS.prefLabel => :label
+    }
+  })
+
+  query.execute(graph).each do |solution|
+    puts "name=#{solution.label}"
+  end
+
+end
+  
 # rapper sitg_skos_model.ttl -i turtle -o rdfxml > sitg_skos_model.rdf
+
+# rapper skos_test.ttl -i turtle -o rdfxml > sitg_skos_model_1.rdf
+
 # cd /Users/ecolix/dev/projects_js/viskosity_fork
 # python -m SimpleHTTPServer 8888 &
 # 
-xml_to_rdf
+readttl
+#querry

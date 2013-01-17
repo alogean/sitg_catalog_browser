@@ -1,0 +1,51 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>.
+@prefix sitg: <http://www.sitg.ch/>.
+
+sitg:c0001 rdf:type       skos:Concept;
+           skos:prefLabel "SITG"@fr.
+
+sitg:c0002 rdf:type       skos:Concept;
+           skos:prefLabel "santé"@fr;
+           skos:broader   sitg:c0001.
+
+sitg:c0003 rdf:type       skos:Concept;
+           skos:prefLabel "mobilité"@fr;
+           skos:broader   sitg:c0001.
+   
+sitg:c0004 rdf:type       skos:Concept;
+           skos:prefLabel "finance"@fr;
+           skos:broader   sitg:c0001.
+
+sitg:c0005 rdf:type       skos:Concept;
+           skos:prefLabel "environement"@fr;
+           skos:broader   sitg:c0001.
+
+sitg:c0006 rdf:type       skos:Concept;
+           skos:prefLabel "éducation"@fr;
+           skos:broader   sitg:c0001.
+
+sitg:c0007 rdf:type       skos:Concept;
+           skos:prefLabel "forêts"@fr;
+           skos:broader   sitg:c0005.
+
+sitg:c0008 rdf:type       skos:Concept;
+           skos:prefLabel "lacs et rivières"@fr;
+           skos:broader   sitg:c0005.
+
+sitg:c0009 rdf:type       skos:Concept;
+           skos:prefLabel "polutions"@fr;
+           skos:broader   sitg:c0005.
+
+sitg:c0010 rdf:type       skos:Concept;
+           skos:prefLabel "polution de l'air"@fr;
+           skos:broader   sitg:c0009.
+
+sitg:c0011 rdf:type       skos:Concept;
+           skos:prefLabel "polution de l'eau"@fr;
+           skos:broader   sitg:c0009.
+
+sitg:collection#1 rdf:type       skos:Collection;
+	              skos:prefLabel "collection 1"@fr;
+	              skos:member    sitg:c0002;
+	              skos:member    sitg:c0003.
